@@ -26,7 +26,7 @@ Runs every 24 hours — performs wallet login, daily check-in, and game sessions
 ## Installation
 
 ```bash
-git clone https://github.com/degio/knidos-daily-bot.git
+git clone https://github.com/degioz/knidos-daily-bot.git
 cd knidos-daily-bot
 pip install -r requirements.txt
 ```
