@@ -31,13 +31,6 @@ cd knidos-daily-bot
 pip install -r requirements.txt
 ```
 
-Or use the setup script:
-
-```bash
-chmod +x setup.sh
-./setup.sh
-```
-
 ---
 
 ## Configuration
