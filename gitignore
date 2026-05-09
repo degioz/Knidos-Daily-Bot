@@ -1,0 +1,36 @@
+# ── Sensitive Files ──────────────────────────────────────────
+keys.txt
+proxy.txt
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# ── Virtual Environments ─────────────────────────────────────
+venv/
+env/
+.venv/
+.env/
+
+# ── Logs & Output ────────────────────────────────────────────
+*.log
+nohup.out
+bot.log
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── IDEs ─────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
